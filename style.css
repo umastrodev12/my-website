@@ -1,1 +1,92 @@
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  text-align: center;
+}
+
+.foto-de-perfil {
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 200px;
+  border-radius: 20vh;
+  padding: 20px;
+}
+
+.title-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar {
+  background-color: #529aff;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+  font-weight: bold;
+  font-size: large;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.navigation-bar a:hover {
+  color: #82a8ec;
+}
+
+.contact-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-div button {
+  border-radius: 20px;
+  border: none;
+  width: 17vh;
+  height: 10vh;
+  background-color: #529aff;
+}
+
+.contact-div a {
+  color: #f0f0f0;
+  text-decoration: none;
+  font-size: medium;
+}
+
+.languages-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title-languages {
+  text-align: center;
+}
+
+.contact-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.projects-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  color: #3d8eff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
 
