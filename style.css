@@ -4,7 +4,7 @@ body {
   text-align: center;
 }
 
-.foto-de-perfil {
+.foto-de-perfil img {
   float: left;
   margin-right: 15px;
   margin-bottom: 10px;
@@ -90,3 +90,22 @@ a:hover {
   text-decoration: underline;
 }
 
+span {
+  color: #006aff;
+}
+
+.github-a {
+  color: #006aff;
+}
+
+.github-btn {
+  width: 20vh;
+  height: 5vh;
+  border-radius: 20px;
+  border: none;
+  background-color: #cde1ef;
+}
+
+.contact img {
+  border-radius: 20px;
+}
